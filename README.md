@@ -1359,6 +1359,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [youtube-mp3.org](http://youtube-mp3.org)
 - [yucatan.com.mx](http://yucatan.com.mx)
 - [yuku.com](http://yuku.com)
+- [galaxyeduworld.com](https://www.galaxyeduworld.com)
 - [z6.com](http://z6.com)
 - [zakon.kz](http://zakon.kz)
 - [zalukaj.tv](http://zalukaj.tv)
